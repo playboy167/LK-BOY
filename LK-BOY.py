@@ -51,7 +51,7 @@ def notice():
  
 	runtxt("\n\033[0;91m🧞‍♀️YOU ARE NOT PREMIUM USER ")
 	runtxt("\033[0;93m 🔇 SENT THIS KEY TO ADMIN >> %s%s"%(G,basesplit))
-	runtxt("\033[0;92m ADMIN🧞‍♀️ WHATSAPP >> https://api.whatsapp.com/send/?phone=%2B8801979526394&text&type=phone_number&app_absent=0")
+	runtxt("\033[0;92m ADMIN🧞‍♀️ WHATSAPP >> +8801979526394")
 	subprocess.check_output(["am", "start", "https://ma.me/+8801979526394"])
  
 def irfan():
